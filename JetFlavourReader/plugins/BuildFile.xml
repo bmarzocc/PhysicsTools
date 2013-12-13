@@ -1,0 +1,12 @@
+<use name="FWCore/Framework"/>
+<use name="DataFormats/Candidate"/>
+<use name="DataFormats/JetReco"/>
+<use name="DataFormats/Common"/>
+<use name="SimDataFormats/JetMatching"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="root"/>
+
+<library file="*.cc" name="PhysicsToolsJetFlavourReaderPlugins">
+    <flags EDM_PLUGIN="1"/>
+</library>
