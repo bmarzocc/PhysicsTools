@@ -15,7 +15,7 @@ PhysicsTools
     
     This analyzer can run on AODSIM format.
     
-    The output is a txt. For each jet it'w written:
+    The output is a txt. For each jet it's written:
     
     event_luminosy - event_id - jet_pt jet - jet_eta - jet_phi - jet_energy - jet_flavour - #_processed_jet - #_processed_jet with flavour != 0
     
